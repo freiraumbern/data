@@ -1,0 +1,34 @@
+{
+  "RES": [{
+    "RESULTS": {
+      "has_dynamic_selection": false,
+      "show_relatebrowser": false,
+      "show_relates_as_columns": true,
+      "init_relates_expanded": true,
+      "show_filter_control": false,
+      "disp_multi_ly_sel": true,
+      "provide_csv_export": true,
+      "provide_xlsx_export": true,
+      "provide_stat_func": false,
+      "minimize_result": false,
+      "data": {
+        "anies": [{
+          "record": [{
+            "record": [{
+              "jsxid": "QRY_CRK_10269_CRK_2_CRK_10292_CRK_47791",
+              "jsxtext": "Bern (Altstadt) 695 CH267646354927 (Grundstücke)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            }],
+            "jsxopen": "1"
+          }],
+          "syn_nodename": "record"
+        }],
+        "jsxid": "jsxroot"
+      },
+      "syn_type": "com.mysynergis.comm.beans.wocomm_cs.RESULTS_Client"
+    },
+    "id_res": "1668045209675"
+  }],
+  "session_id": "cd7930eb-b48c-428e-9839-29b52ea5dbe1"
+}

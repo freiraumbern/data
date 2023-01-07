@@ -1,0 +1,128 @@
+{
+  "RES": [{
+    "RESULTS": {
+      "has_dynamic_selection": false,
+      "show_relatebrowser": false,
+      "show_relates_as_columns": true,
+      "init_relates_expanded": true,
+      "show_filter_control": false,
+      "disp_multi_ly_sel": true,
+      "provide_csv_export": true,
+      "provide_xlsx_export": true,
+      "provide_stat_func": false,
+      "minimize_result": false,
+      "data": {
+        "anies": [{
+          "record": [{
+            "record": [{
+              "jsxid": "QRY_CRK_10269_CRK_2_CRK_10292_CRK_75360",
+              "jsxtext": "Köniz 7480 CH129895463510 (Grundstücke)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            }],
+            "jsxopen": "1"
+          }],
+          "syn_nodename": "record"
+        }],
+        "jsxid": "jsxroot"
+      },
+      "syn_type": "com.mysynergis.comm.beans.wocomm_cs.RESULTS_Client"
+    },
+    "id_res": "1669227253237"
+  }],
+  "session_id": "12d1a9b5-6e75-4386-88bb-23b81e93d156"
+}R",
+            "alias": "Grundbuchkreis-Nr.",
+            "type": "number",
+            "length": 16
+          },
+          {
+            "name": "EGRID",
+            "alias": "Eidg. Grundstück-ID (EGRID)",
+            "type": "string",
+            "length": 16
+          },
+          {
+            "name": "QV",
+            "alias": "Qualität der Vermessung",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "GZSTAT",
+            "alias": "Status Güterzusammenlegung",
+            "type": "string",
+            "length": 47
+          }
+        ],
+        "count": 10,
+        "maptip_show_field_names": true
+      },
+      "body": {"records": [{
+        "centroid": {
+          "x": 2598279.238806306,
+          "y": 1198169.2164066494
+        },
+        "extent": {
+          "xmin": 2598260.6,
+          "ymin": 1198155.7,
+          "xmax": 2598300.8,
+          "ymax": 1198182.8
+        },
+        "fields": {"anies": [{
+          "syn_jsxid": "QRY_CRK_10269_CRK_2_CRK_10292_CRK_79424",
+          "syn_oid": "79424",
+          "syn_record_name": "Köniz 6722 CH129894463519",
+          "syn_jsxselected": "1",
+          "GSTBEZ": "6722",
+          "GBFLAE": "733",
+          "GSTART": "Liegenschaft",
+          "PROJSTAT": "gültig",
+          "GENGBKRN": "Köniz",
+          "BFSNR": "355",
+          "GBKR": "0",
+          "EGRID": "CH129894463519",
+          "QV": "AV93",
+          "GZSTAT": "Keine Land- oder Baulandumlegung in Bearbeitung",
+          "syn_nodename": "record"
+        }]}
+      }]},
+      "popup_position": {
+        "docking_position": "bottom-left",
+        "is_initially_docked": false,
+        "is_docking_button_visible": true,
+        "is_at_clickpoint": false
+      },
+      "service_id": "10269",
+      "recordset_id": "QRY_CRK_10269_CRK_2_CRK_10292",
+      "is_layer": true,
+      "scale": 1000,
+      "can_visualize": true,
+      "is_raster_catalog": false,
+      "has_relate": false,
+      "has_dynamic_selection": false,
+      "show_relatebrowser": false,
+      "show_relates_as_columns": true,
+      "init_relates_expanded": true,
+      "is_base": true,
+      "recordset_name": "Grundstücke",
+      "is_persistable": true,
+      "show_filter_control": false,
+      "disp_multi_ly_sel": false,
+      "provide_csv_export": false,
+      "provide_xlsx_export": true,
+      "provide_stat_func": false,
+      "minimize_result": false,
+      "oids_added": "",
+      "oids_removed": "",
+      "show_null_values": false,
+      "use_for_routing": false,
+      "hasAttachments": false,
+      "show_object_name": false,
+      "show_query_result_name": false,
+      "syn_type": "com.mysynergis.comm.beans.wocomm_cs.RESULTS_Client"
+    },
+    "id_res": "1669227252816"
+  }],
+  "session_id": "12d1a9b5-6e75-4386-88bb-23b81e93d156"
+}

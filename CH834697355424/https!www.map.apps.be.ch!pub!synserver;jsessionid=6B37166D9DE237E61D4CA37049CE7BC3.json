@@ -1,0 +1,137 @@
+{
+  "RES": [{
+    "RESULTS": {
+      "header": {
+        "fields": [
+          {
+            "name": "GSTBEZ",
+            "alias": "Grundstück-Nr.",
+            "type": "string",
+            "length": 8
+          },
+          {
+            "name": "GBFLAE",
+            "alias": "Fläche [m2]",
+            "type": "number",
+            "length": 8
+          },
+          {
+            "name": "GSTART",
+            "alias": "Grundstücksart",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "PROJSTAT",
+            "alias": "Grundstückszustand",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "GENGBKRN",
+            "alias": "Gemeinde (Grundbuchkreis)",
+            "type": "string",
+            "length": 18
+          },
+          {
+            "name": "BFSNR",
+            "alias": "Gemeinde-Nr.",
+            "type": "number",
+            "length": 12
+          },
+          {
+            "name": "GBKR",
+            "alias": "Grundbuchkreis-Nr.",
+            "type": "number",
+            "length": 16
+          },
+          {
+            "name": "EGRID",
+            "alias": "Eidg. Grundstück-ID (EGRID)",
+            "type": "string",
+            "length": 16
+          },
+          {
+            "name": "QV",
+            "alias": "Qualität der Vermessung",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "GZSTAT",
+            "alias": "Status Güterzusammenlegung",
+            "type": "string",
+            "length": 47
+          }
+        ],
+        "count": 10,
+        "maptip_show_field_names": true
+      },
+      "body": {"records": [{
+        "centroid": {
+          "x": 2601595.8850848963,
+          "y": 1197949.129188413
+        },
+        "extent": {
+          "xmin": 2601582,
+          "ymin": 1197933.6,
+          "xmax": 2601609.8,
+          "ymax": 1197964.6
+        },
+        "fields": {"anies": [{
+          "syn_jsxid": "QRY_CRK_10269_CRK_2_CRK_10292_CRK_72765",
+          "syn_oid": "72765",
+          "syn_record_name": "Köniz 5198 CH834697355424",
+          "syn_jsxselected": "1",
+          "GSTBEZ": "5198",
+          "GBFLAE": "555",
+          "GSTART": "Liegenschaft",
+          "PROJSTAT": "gültig",
+          "GENGBKRN": "Köniz",
+          "BFSNR": "355",
+          "GBKR": "0",
+          "EGRID": "CH834697355424",
+          "QV": "AV93",
+          "GZSTAT": "Keine Land- oder Baulandumlegung in Bearbeitung",
+          "syn_nodename": "record"
+        }]}
+      }]},
+      "popup_position": {
+        "docking_position": "bottom-left",
+        "is_initially_docked": false,
+        "is_docking_button_visible": true,
+        "is_at_clickpoint": false
+      },
+      "service_id": "10269",
+      "recordset_id": "QRY_CRK_10269_CRK_2_CRK_10292",
+      "is_layer": true,
+      "scale": 1000,
+      "can_visualize": true,
+      "is_raster_catalog": false,
+      "has_relate": false,
+      "has_dynamic_selection": false,
+      "show_relatebrowser": false,
+      "show_relates_as_columns": true,
+      "init_relates_expanded": true,
+      "is_base": true,
+      "recordset_name": "Grundstücke",
+      "is_persistable": true,
+      "show_filter_control": false,
+      "disp_multi_ly_sel": false,
+      "provide_csv_export": false,
+      "provide_xlsx_export": true,
+      "provide_stat_func": false,
+      "minimize_result": false,
+      "oids_added": "",
+      "oids_removed": "",
+      "show_null_values": false,
+      "use_for_routing": false,
+      "hasAttachments": false,
+      "show_object_name": false,
+      "show_query_result_name": false,
+      "syn_type": "com.mysynergis.comm.beans.wocomm_cs.RESULTS_Client"
+    },
+    "id_res": "1670122465154"
+  }],
+  "session_id": "ab8e1a5a-88c5-476e-90d5-843606c016c8"
+}

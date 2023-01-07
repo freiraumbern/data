@@ -1,0 +1,137 @@
+{
+  "RES": [{
+    "RESULTS": {
+      "header": {
+        "fields": [
+          {
+            "name": "GSTBEZ",
+            "alias": "Grundstück-Nr.",
+            "type": "string",
+            "length": 8
+          },
+          {
+            "name": "GBFLAE",
+            "alias": "Fläche [m2]",
+            "type": "number",
+            "length": 8
+          },
+          {
+            "name": "GSTART",
+            "alias": "Grundstücksart",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "PROJSTAT",
+            "alias": "Grundstückszustand",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "GENGBKRN",
+            "alias": "Gemeinde (Grundbuchkreis)",
+            "type": "string",
+            "length": 18
+          },
+          {
+            "name": "BFSNR",
+            "alias": "Gemeinde-Nr.",
+            "type": "number",
+            "length": 12
+          },
+          {
+            "name": "GBKR",
+            "alias": "Grundbuchkreis-Nr.",
+            "type": "number",
+            "length": 16
+          },
+          {
+            "name": "EGRID",
+            "alias": "Eidg. Grundstück-ID (EGRID)",
+            "type": "string",
+            "length": 16
+          },
+          {
+            "name": "QV",
+            "alias": "Qualität der Vermessung",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "GZSTAT",
+            "alias": "Status Güterzusammenlegung",
+            "type": "string",
+            "length": 47
+          }
+        ],
+        "count": 10,
+        "maptip_show_field_names": true
+      },
+      "body": {"records": [{
+        "centroid": {
+          "x": 2602500.914691768,
+          "y": 1199471.090488495
+        },
+        "extent": {
+          "xmin": 2602494.1,
+          "ymin": 1199464.1,
+          "xmax": 2602507.5,
+          "ymax": 1199476.1
+        },
+        "fields": {"anies": [{
+          "syn_jsxid": "QRY_CRK_10269_CRK_2_CRK_10292_CRK_57878",
+          "syn_oid": "57878",
+          "syn_record_name": "Bern (Kirchenfeld, Schosshalde) 3197 CH713513468842",
+          "syn_jsxselected": "1",
+          "GSTBEZ": "3197",
+          "GBFLAE": "81",
+          "GSTART": "Liegenschaft",
+          "PROJSTAT": "gültig",
+          "GENGBKRN": "Bern (Kirchenfeld, Schosshalde)",
+          "BFSNR": "351",
+          "GBKR": "4",
+          "EGRID": "CH713513468842",
+          "QV": "AV93",
+          "GZSTAT": "Keine Land- oder Baulandumlegung in Bearbeitung",
+          "syn_nodename": "record"
+        }]}
+      }]},
+      "popup_position": {
+        "docking_position": "bottom-left",
+        "is_initially_docked": false,
+        "is_docking_button_visible": true,
+        "is_at_clickpoint": false
+      },
+      "service_id": "10269",
+      "recordset_id": "QRY_CRK_10269_CRK_2_CRK_10292",
+      "is_layer": true,
+      "scale": 1000,
+      "can_visualize": true,
+      "is_raster_catalog": false,
+      "has_relate": false,
+      "has_dynamic_selection": false,
+      "show_relatebrowser": false,
+      "show_relates_as_columns": true,
+      "init_relates_expanded": true,
+      "is_base": true,
+      "recordset_name": "Grundstücke",
+      "is_persistable": true,
+      "show_filter_control": false,
+      "disp_multi_ly_sel": false,
+      "provide_csv_export": false,
+      "provide_xlsx_export": true,
+      "provide_stat_func": false,
+      "minimize_result": false,
+      "oids_added": "",
+      "oids_removed": "",
+      "show_null_values": false,
+      "use_for_routing": false,
+      "hasAttachments": false,
+      "show_object_name": false,
+      "show_query_result_name": false,
+      "syn_type": "com.mysynergis.comm.beans.wocomm_cs.RESULTS_Client"
+    },
+    "id_res": "1668584594454"
+  }],
+  "session_id": "2eca196a-72e9-474b-a5ab-5b4e3c67ce5c"
+}

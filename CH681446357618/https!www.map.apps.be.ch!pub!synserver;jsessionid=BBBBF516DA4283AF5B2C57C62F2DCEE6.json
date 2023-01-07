@@ -1,0 +1,137 @@
+{
+  "RES": [{
+    "RESULTS": {
+      "header": {
+        "fields": [
+          {
+            "name": "GSTBEZ",
+            "alias": "Grundstück-Nr.",
+            "type": "string",
+            "length": 8
+          },
+          {
+            "name": "GBFLAE",
+            "alias": "Fläche [m2]",
+            "type": "number",
+            "length": 8
+          },
+          {
+            "name": "GSTART",
+            "alias": "Grundstücksart",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "PROJSTAT",
+            "alias": "Grundstückszustand",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "GENGBKRN",
+            "alias": "Gemeinde (Grundbuchkreis)",
+            "type": "string",
+            "length": 18
+          },
+          {
+            "name": "BFSNR",
+            "alias": "Gemeinde-Nr.",
+            "type": "number",
+            "length": 12
+          },
+          {
+            "name": "GBKR",
+            "alias": "Grundbuchkreis-Nr.",
+            "type": "number",
+            "length": 16
+          },
+          {
+            "name": "EGRID",
+            "alias": "Eidg. Grundstück-ID (EGRID)",
+            "type": "string",
+            "length": 16
+          },
+          {
+            "name": "QV",
+            "alias": "Qualität der Vermessung",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "GZSTAT",
+            "alias": "Status Güterzusammenlegung",
+            "type": "string",
+            "length": 47
+          }
+        ],
+        "count": 10,
+        "maptip_show_field_names": true
+      },
+      "body": {"records": [{
+        "centroid": {
+          "x": 2600705.5430005146,
+          "y": 1202452.8514668038
+        },
+        "extent": {
+          "xmin": 2600680,
+          "ymin": 1202429.4,
+          "xmax": 2600735.4,
+          "ymax": 1202477.6
+        },
+        "fields": {"anies": [{
+          "syn_jsxid": "QRY_CRK_10269_CRK_2_CRK_10292_CRK_49303",
+          "syn_oid": "49303",
+          "syn_record_name": "Bern (Länggasse, Tiefenau) 1756 CH681446357618",
+          "syn_jsxselected": "1",
+          "GSTBEZ": "1756",
+          "GBFLAE": "1302",
+          "GSTART": "Liegenschaft",
+          "PROJSTAT": "gültig",
+          "GENGBKRN": "Bern (Länggasse, Tiefenau)",
+          "BFSNR": "351",
+          "GBKR": "2",
+          "EGRID": "CH681446357618",
+          "QV": "AV93",
+          "GZSTAT": "Keine Land- oder Baulandumlegung in Bearbeitung",
+          "syn_nodename": "record"
+        }]}
+      }]},
+      "popup_position": {
+        "docking_position": "bottom-left",
+        "is_initially_docked": false,
+        "is_docking_button_visible": true,
+        "is_at_clickpoint": false
+      },
+      "service_id": "10269",
+      "recordset_id": "QRY_CRK_10269_CRK_2_CRK_10292",
+      "is_layer": true,
+      "scale": 1000,
+      "can_visualize": true,
+      "is_raster_catalog": false,
+      "has_relate": false,
+      "has_dynamic_selection": false,
+      "show_relatebrowser": false,
+      "show_relates_as_columns": true,
+      "init_relates_expanded": true,
+      "is_base": true,
+      "recordset_name": "Grundstücke",
+      "is_persistable": true,
+      "show_filter_control": false,
+      "disp_multi_ly_sel": false,
+      "provide_csv_export": false,
+      "provide_xlsx_export": true,
+      "provide_stat_func": false,
+      "minimize_result": false,
+      "oids_added": "",
+      "oids_removed": "",
+      "show_null_values": false,
+      "use_for_routing": false,
+      "hasAttachments": false,
+      "show_object_name": false,
+      "show_query_result_name": false,
+      "syn_type": "com.mysynergis.comm.beans.wocomm_cs.RESULTS_Client"
+    },
+    "id_res": "1672035079041"
+  }],
+  "session_id": "e69f487d-bd0f-46ba-828b-5d0e27015181"
+}

@@ -1,0 +1,26 @@
+{
+  "RES": [{
+    "RESULTS": {
+      "has_dynamic_selection": false,
+      "show_relatebrowser": false,
+      "show_relates_as_columns": true,
+      "init_relates_expanded": true,
+      "show_filter_control": false,
+      "disp_multi_ly_sel": true,
+      "provide_csv_export": true,
+      "provide_xlsx_export": true,
+      "provide_stat_func": false,
+      "minimize_result": false,
+      "data": {
+        "anies": [{
+          "record": [{"jsxopen": "1"}],
+          "syn_nodename": "record"
+        }],
+        "jsxid": "jsxroot"
+      },
+      "syn_type": "com.mysynergis.comm.beans.wocomm_cs.RESULTS_Client"
+    },
+    "id_res": "1670004977262"
+  }],
+  "session_id": "c3a7e3ad-2587-40b4-b237-34cfaf99ff8c"
+}

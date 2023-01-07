@@ -1,0 +1,34 @@
+{
+  "RES": [{
+    "RESULTS": {
+      "has_dynamic_selection": false,
+      "show_relatebrowser": false,
+      "show_relates_as_columns": true,
+      "init_relates_expanded": true,
+      "show_filter_control": false,
+      "disp_multi_ly_sel": true,
+      "provide_csv_export": true,
+      "provide_xlsx_export": true,
+      "provide_stat_func": false,
+      "minimize_result": false,
+      "data": {
+        "anies": [{
+          "record": [{
+            "record": [{
+              "jsxid": "QRY_CRK_10269_CRK_2_CRK_10292_CRK_52905",
+              "jsxtext": "Bern (Mattenhof) 2870 CH689346358708 (Grundstücke)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            }],
+            "jsxopen": "1"
+          }],
+          "syn_nodename": "record"
+        }],
+        "jsxid": "jsxroot"
+      },
+      "syn_type": "com.mysynergis.comm.beans.wocomm_cs.RESULTS_Client"
+    },
+    "id_res": "1669122065137"
+  }],
+  "session_id": "e4b0a3c8-421d-4b1e-83ee-06cda68dd1c1"
+}

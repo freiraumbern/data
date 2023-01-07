@@ -1,0 +1,137 @@
+{
+  "RES": [{
+    "RESULTS": {
+      "header": {
+        "fields": [
+          {
+            "name": "GSTBEZ",
+            "alias": "Grundstück-Nr.",
+            "type": "string",
+            "length": 8
+          },
+          {
+            "name": "GBFLAE",
+            "alias": "Fläche [m2]",
+            "type": "number",
+            "length": 8
+          },
+          {
+            "name": "GSTART",
+            "alias": "Grundstücksart",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "PROJSTAT",
+            "alias": "Grundstückszustand",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "GENGBKRN",
+            "alias": "Gemeinde (Grundbuchkreis)",
+            "type": "string",
+            "length": 18
+          },
+          {
+            "name": "BFSNR",
+            "alias": "Gemeinde-Nr.",
+            "type": "number",
+            "length": 12
+          },
+          {
+            "name": "GBKR",
+            "alias": "Grundbuchkreis-Nr.",
+            "type": "number",
+            "length": 16
+          },
+          {
+            "name": "EGRID",
+            "alias": "Eidg. Grundstück-ID (EGRID)",
+            "type": "string",
+            "length": 16
+          },
+          {
+            "name": "QV",
+            "alias": "Qualität der Vermessung",
+            "type": "string",
+            "length": 12
+          },
+          {
+            "name": "GZSTAT",
+            "alias": "Status Güterzusammenlegung",
+            "type": "string",
+            "length": 47
+          }
+        ],
+        "count": 10,
+        "maptip_show_field_names": true
+      },
+      "body": {"records": [{
+        "centroid": {
+          "x": 2598484.588519107,
+          "y": 1199179.6419810797
+        },
+        "extent": {
+          "xmin": 2598414.9,
+          "ymin": 1199091.3,
+          "xmax": 2598596.9,
+          "ymax": 1199260.6
+        },
+        "fields": {"anies": [{
+          "syn_jsxid": "QRY_CRK_10269_CRK_2_CRK_10292_CRK_52376",
+          "syn_oid": "52376",
+          "syn_record_name": "Bern (Mattenhof) 2062 CH694687993508",
+          "syn_jsxselected": "1",
+          "GSTBEZ": "2062",
+          "GBFLAE": "11056",
+          "GSTART": "Liegenschaft",
+          "PROJSTAT": "gültig",
+          "GENGBKRN": "Bern (Mattenhof)",
+          "BFSNR": "351",
+          "GBKR": "3",
+          "EGRID": "CH694687993508",
+          "QV": "AV93",
+          "GZSTAT": "Keine Land- oder Baulandumlegung in Bearbeitung",
+          "syn_nodename": "record"
+        }]}
+      }]},
+      "popup_position": {
+        "docking_position": "bottom-left",
+        "is_initially_docked": false,
+        "is_docking_button_visible": true,
+        "is_at_clickpoint": false
+      },
+      "service_id": "10269",
+      "recordset_id": "QRY_CRK_10269_CRK_2_CRK_10292",
+      "is_layer": true,
+      "scale": 1000,
+      "can_visualize": true,
+      "is_raster_catalog": false,
+      "has_relate": false,
+      "has_dynamic_selection": false,
+      "show_relatebrowser": false,
+      "show_relates_as_columns": true,
+      "init_relates_expanded": true,
+      "is_base": true,
+      "recordset_name": "Grundstücke",
+      "is_persistable": true,
+      "show_filter_control": false,
+      "disp_multi_ly_sel": false,
+      "provide_csv_export": false,
+      "provide_xlsx_export": true,
+      "provide_stat_func": false,
+      "minimize_result": false,
+      "oids_added": "",
+      "oids_removed": "",
+      "show_null_values": false,
+      "use_for_routing": false,
+      "hasAttachments": false,
+      "show_object_name": false,
+      "show_query_result_name": false,
+      "syn_type": "com.mysynergis.comm.beans.wocomm_cs.RESULTS_Client"
+    },
+    "id_res": "1672041859853"
+  }],
+  "session_id": "890b6a74-5abb-4689-85e4-c1dc32a4c885"
+}

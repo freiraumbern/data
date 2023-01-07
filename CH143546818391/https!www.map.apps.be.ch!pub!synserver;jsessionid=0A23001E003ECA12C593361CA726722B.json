@@ -1,0 +1,34 @@
+{
+  "RES": [{
+    "RESULTS": {
+      "has_dynamic_selection": false,
+      "show_relatebrowser": false,
+      "show_relates_as_columns": true,
+      "init_relates_expanded": true,
+      "show_filter_control": false,
+      "disp_multi_ly_sel": true,
+      "provide_csv_export": true,
+      "provide_xlsx_export": true,
+      "provide_stat_func": false,
+      "minimize_result": false,
+      "data": {
+        "anies": [{
+          "record": [{
+            "record": [{
+              "jsxid": "QRY_CRK_10269_CRK_2_CRK_10292_CRK_80414",
+              "jsxtext": "Köniz 5602 CH143546818391 (Grundstücke)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            }],
+            "jsxopen": "1"
+          }],
+          "syn_nodename": "record"
+        }],
+        "jsxid": "jsxroot"
+      },
+      "syn_type": "com.mysynergis.comm.beans.wocomm_cs.RESULTS_Client"
+    },
+    "id_res": "1669241150633"
+  }],
+  "session_id": "2980d452-9e2c-41e1-bcf5-07b531fc5468"
+}

@@ -1,0 +1,627 @@
+{
+  "RES": [{
+    "RESULTS": {
+      "has_dynamic_selection": false,
+      "show_relatebrowser": false,
+      "show_relates_as_columns": true,
+      "init_relates_expanded": true,
+      "show_filter_control": false,
+      "disp_multi_ly_sel": true,
+      "provide_csv_export": true,
+      "provide_xlsx_export": true,
+      "provide_stat_func": false,
+      "minimize_result": false,
+      "data": {
+        "anies": [{
+          "record": [{"record": [
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_127",
+              "jsxtext": "304 Kallnach (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_53",
+              "jsxtext": "305 Kappelen (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_120",
+              "jsxtext": "354 Kirchlindach (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_230",
+              "jsxtext": "355 Köniz (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_299",
+              "jsxtext": "411 Kernenried (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_62",
+              "jsxtext": "412 Kirchberg (BE) (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_210",
+              "jsxtext": "413 Koppigen (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_191",
+              "jsxtext": "414 Krauchthal (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_160",
+              "jsxtext": "431 Corgémont (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_117",
+              "jsxtext": "432 Cormoret (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_258",
+              "jsxtext": "433 Cortébert (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_4",
+              "jsxtext": "434 Courtelary (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_301",
+              "jsxtext": "564 Kandergrund (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_171",
+              "jsxtext": "565 Kandersteg (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_111",
+              "jsxtext": "566 Krattigen (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_332",
+              "jsxtext": "611 Kiesen (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_206",
+              "jsxtext": "612 Konolfingen (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_185",
+              "jsxtext": "666 Kriechenwil (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_26",
+              "jsxtext": "683 Champoz (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_55",
+              "jsxtext": "687 Corcelles (BE) (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_13",
+              "jsxtext": "690 Court (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_21",
+              "jsxtext": "691 Crémines (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_208",
+              "jsxtext": "869 Kaufdorf (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_197",
+              "jsxtext": "870 Kehrsatz (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_340",
+              "jsxtext": "872 Kirchdorf (BE) (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_5_CRK_10536_CRK_136",
+              "jsxtext": "1 Châtelat (Grundbuchkreise)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_5_CRK_10536_CRK_55",
+              "jsxtext": "1 Kallnach (Grundbuchkreise)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_5_CRK_10536_CRK_95",
+              "jsxtext": "1 Kirchdorf (Grundbuchkreise)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_5_CRK_10536_CRK_287",
+              "jsxtext": "1 Kirchenthurnen (Grundbuchkreise)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_5_CRK_10536_CRK_109",
+              "jsxtext": "2 Kienersrüti (Grundbuchkreise)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_5_CRK_10536_CRK_185",
+              "jsxtext": "3 Kleindietwil (Grundbuchkreise)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_5_CRK_10536_CRK_164",
+              "jsxtext": "4 Kirchenfeld/Schosshalde (Grundbuchkreise)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_4_CRK_10528_CRK_56",
+              "jsxtext": "567 Reichenbach im Kandertal (Gemeinden)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_41492",
+              "jsxtext": "Aarberg Chappelefeld (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_41490",
+              "jsxtext": "Aarberg Chräjeninsel (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_41482",
+              "jsxtext": "Aarberg Karoline (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_41549",
+              "jsxtext": "Aarberg Kraftwerk (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_48596",
+              "jsxtext": "Aarwangen Chilefeld (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_48647",
+              "jsxtext": "Aarwangen Chuerain (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19670",
+              "jsxtext": "Adelboden Chalbertod (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_20021",
+              "jsxtext": "Adelboden Chalberweidli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19749",
+              "jsxtext": "Adelboden Chalberweidli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19760",
+              "jsxtext": "Adelboden Chalebüel (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19624",
+              "jsxtext": "Adelboden Chälemad (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_20054",
+              "jsxtext": "Adelboden Chäli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19632",
+              "jsxtext": "Adelboden Chäli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19956",
+              "jsxtext": "Adelboden Challeweid (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19924",
+              "jsxtext": "Adelboden Challeweid (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19623",
+              "jsxtext": "Adelboden Chatzehubel (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19711",
+              "jsxtext": "Adelboden Cheersegga (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19744",
+              "jsxtext": "Adelboden Cheerwegmedli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_20228",
+              "jsxtext": "Adelboden Chlusi (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_20084",
+              "jsxtext": "Adelboden Cholereloch (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_20082",
+              "jsxtext": "Adelboden Cholereloch (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19824",
+              "jsxtext": "Adelboden Chraji (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19723",
+              "jsxtext": "Adelboden Chräwel (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_20210",
+              "jsxtext": "Adelboden Chüebächi (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_20011",
+              "jsxtext": "Adelboden Chüebachweid (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_20319",
+              "jsxtext": "Adelboden Chüematta (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19807",
+              "jsxtext": "Adelboden Chüematta (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_20270",
+              "jsxtext": "Adelboden Chüematti (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19676",
+              "jsxtext": "Adelboden Chuenisbärgli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_20281",
+              "jsxtext": "Adelboden Chuenisbärgli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19648",
+              "jsxtext": "Adelboden Chuenisbärgli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19798",
+              "jsxtext": "Adelboden Chuenzi (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_20076",
+              "jsxtext": "Adelboden Chuma (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_20259",
+              "jsxtext": "Adelboden Chumi (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_19894",
+              "jsxtext": "Adelboden Kurhusmatta (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_53081",
+              "jsxtext": "Aegerten Chilchenacher (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_53078",
+              "jsxtext": "Aegerten Chilchweg (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_53108",
+              "jsxtext": "Aegerten Chürzi (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17366",
+              "jsxtext": "Aeschi bei Spiez Chalchmattli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17417",
+              "jsxtext": "Aeschi bei Spiez Chalchofe (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17275",
+              "jsxtext": "Aeschi bei Spiez Chappele (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17233",
+              "jsxtext": "Aeschi bei Spiez Chappelegand (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17232",
+              "jsxtext": "Aeschi bei Spiez Chappelewald (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17269",
+              "jsxtext": "Aeschi bei Spiez Chappelewald (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17266",
+              "jsxtext": "Aeschi bei Spiez Chienerli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17434",
+              "jsxtext": "Aeschi bei Spiez Chnächtacher (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17406",
+              "jsxtext": "Aeschi bei Spiez Cholebärgli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17283",
+              "jsxtext": "Aeschi bei Spiez Choried (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17284",
+              "jsxtext": "Aeschi bei Spiez Choried (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17354",
+              "jsxtext": "Aeschi bei Spiez Chrachemoos (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17355",
+              "jsxtext": "Aeschi bei Spiez Chrachemoos (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17344",
+              "jsxtext": "Aeschi bei Spiez Chrützägertli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17345",
+              "jsxtext": "Aeschi bei Spiez Chrützägertli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17246",
+              "jsxtext": "Aeschi bei Spiez Kander (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17249",
+              "jsxtext": "Aeschi bei Spiez Kander (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17375",
+              "jsxtext": "Aeschi bei Spiez Kander (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17259",
+              "jsxtext": "Aeschi bei Spiez Kander (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17270",
+              "jsxtext": "Aeschi bei Spiez Kander (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17265",
+              "jsxtext": "Aeschi bei Spiez Kander (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17302",
+              "jsxtext": "Aeschi bei Spiez Kander (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_17311",
+              "jsxtext": "Aeschi bei Spiez Kander (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_51482",
+              "jsxtext": "Affoltern im Emmental Chilchbüel (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_51471",
+              "jsxtext": "Affoltern im Emmental Chilchbüelweid (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_51442",
+              "jsxtext": "Affoltern im Emmental Chilchhölzli (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_51497",
+              "jsxtext": "Affoltern im Emmental Chloster (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_51496",
+              "jsxtext": "Affoltern im Emmental Chlosteregg (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            },
+            {
+              "jsxid": "QRY_CRK_10269_CRK_6_CRK_10222_CRK_51448",
+              "jsxtext": "Affoltern im Emmental Chlosterhoger (Orts-, Flur- und Geländenamen)",
+              "syn_recordtype": "feature",
+              "jsximg": "images/multiresult_feature.gif"
+            }
+          ]}],
+          "syn_nodename": "record"
+        }],
+        "jsxid": "jsxroot"
+      },
+      "syn_type": "com.mysynergis.comm.beans.wocomm_cs.RESULTS_Client"
+    },
+    "id_res": "1668821956316"
+  }],
+  "session_id": "dd03a216-e3f6-45f3-afed-c87980f87531"
+}
